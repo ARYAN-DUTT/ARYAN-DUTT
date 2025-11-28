@@ -7,7 +7,7 @@
 - 🌱 Learning **Data Structures, Algorithms & Modern JavaScript**
 - 🤝 I love building **useful and impactful tech**
 - 🎯 Goal: **Become a Full-Stack + AI Engineer**
-- ⚡ Fun fact: *I think code is poetry... and debugging is therapy 😭*
+- ⚡ Fun fact: *I think code is poetry... and debugging is therapy*
 
 ---
 
